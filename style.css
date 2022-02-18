@@ -1,0 +1,39 @@
+.book {
+    cursor: pointer;
+}
+
+.sport hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+hr {
+    line-height: 2px;
+}
+
+body {
+    text-align: center;
+    align-items: center;
+    color: cadetblue;
+    background-color: black;
+
+}
+
+#big img {
+    position: relative;
+}
